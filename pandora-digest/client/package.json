@@ -1,0 +1,14 @@
+{
+  "name": "pandora-digest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "query.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.9.1"
+  }
+}
